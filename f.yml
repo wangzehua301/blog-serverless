@@ -1,0 +1,14 @@
+service:
+  name: blog-server1
+
+provider:
+  name: aliyun
+
+aggregation:
+  all: 
+    functionsPatten:
+          '*'
+
+custom:
+  customDomain:
+    domainName: auto

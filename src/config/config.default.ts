@@ -5,7 +5,7 @@ export const orm = {
    * 单数据库实例
    */
   type: 'mysql',
-  host: 'rm-2ze1d54dcj18sy3g9vo.mysql.rds.aliyuncs.com',
+  host: 'rm-2zei1m6420bx2gt410o.mysql.rds.aliyuncs.com',
   port: 3306,
   username: 'wzh_blog',
   password: 'Wzh123123',
